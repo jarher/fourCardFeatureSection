@@ -1,0 +1,26 @@
+[
+  {
+    "cardTitle": "Supervisor",
+    "cardDescription": "Monitors activity to identify project roadblocks",
+    "imgUrl": "./images/icon-supervisor.svg",
+    "imgAlt": "supervisor icon"
+  },
+  {
+    "cardTitle": "Team Builder",
+    "cardDescription": "Scans our talent network to create the optimal team for your project",
+    "imgUrl": "./images/icon-team-builder.svg",
+    "imgAlt": "team builder icon"
+  },
+  {
+    "cardTitle": "Karma",
+    "cardDescription": "Regularly evaluates our talent to ensure quality",
+    "imgUrl": "./images/icon-karma.svg",
+    "imgAlt": "karma icon"
+  },
+  {
+    "cardTitle": "Calculator",
+    "cardDescription": "Uses data from past projects to provide better delivery estimates",
+    "imgUrl": "./images/icon-calculator.svg",
+    "imgAlt": "calculator icon"
+  }
+]
